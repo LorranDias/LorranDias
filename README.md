@@ -79,31 +79,17 @@ Analyzing threats, hunting vulnerabilities, and building a safer digital world â
 
 <table align="center">
 <tr>
-  <td align="center" width="200">
-    <a href="https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/" target="_blank">
-      <img src="https://img.shields.io/badge/-CSA-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI2Q0MDAyNiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIzMCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCI+Q1NBPC90ZXh0Pjwvc3ZnPg==&logoColor=white&labelColor=d40026&color=222" height="40" alt="CSA">
-      <br><br>
-      <img src="https://img.shields.io/badge/Certified%20SOC%20Analyst-CSA-d40026?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjUiIGZpbGw9IndoaXRlIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNkNDAwMjYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC13ZWlnaHQ9ImJvbGQiPkVDPC90ZXh0Pjwvc3ZnPg==&logoColor=white" width="200" alt="CSA Badge">
-    </a>
-    <br>
-    <strong>Certified SOC Analyst</strong><br>
-    <sub>EC-Council Â· CSA</sub>
+  <td align="center" width="160">
+    <img src="badges/csa-eccouncil.svg" alt="CSA" width="90" height="90"><br>
+    <strong>CSA<br>EC-Council</strong>
   </td>
-  <td align="center" width="200">
-    <a href="https://www.eccouncil.org/train-certify/ec-council-certified-incident-handler-ecih/" target="_blank">
-      <img src="https://img.shields.io/badge/EC--Council%20Certified%20Incident%20Handler-ECIH-d40026?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjUiIGZpbGw9IndoaXRlIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNkNDAwMjYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC13ZWlnaHQ9ImJvbGQiPkVDPC90ZXh0Pjwvc3ZnPg==&logoColor=white" width="200" alt="ECIH Badge">
-    </a>
-    <br>
-    <strong>Certified Incident Handler</strong><br>
-    <sub>EC-Council Â· ECIH</sub>
+  <td align="center" width="160">
+    <img src="badges/ecih-eccouncil.svg" alt="ECIH" width="90" height="90"><br>
+    <strong>ECIH<br>EC-Council</strong>
   </td>
-  <td align="center" width="200">
-    <a href="https://www.comptia.org/certifications/security" target="_blank">
-      <img src="https://img.shields.io/badge/CompTIA%20Security%2B-SY0--701-FF0000?style=flat-square&logo=comptia&logoColor=white" width="200" alt="Security+ Badge">
-    </a>
-    <br>
-    <strong>CompTIA Security+</strong><br>
-    <sub>CompTIA Â· SY0-701</sub>
+  <td align="center" width="160">
+    <img src="badges/security-plus.svg" alt="Security+" width="90" height="90"><br>
+    <strong>Security+<br>CompTIA</strong>
   </td>
 </tr>
 </table>
@@ -114,24 +100,19 @@ Analyzing threats, hunting vulnerabilities, and building a safer digital world â
 
 <table align="center">
 <tr>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-CS0--003-FF0000?style=flat-square&logo=comptia&logoColor=white" width="180" alt="CySA+">
-    <br><br>
-    <strong>CompTIA CySA+</strong><br>
-    <sub>Cybersecurity Analyst</sub><br>
+  <td align="center" width="160">
+    <img src="badges/cysa-plus.svg" alt="CySA+" width="90" height="90"><br>
+    <strong>CySA+<br>CompTIA</strong><br>
     <img src="https://geps.dev/progress/65" alt="65%">
   </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/CompTIA%20Pentest%2B-PT0--002-FF0000?style=flat-square&logo=comptia&logoColor=white" width="180" alt="Pentest+">
-    <br><br>
-    <strong>CompTIA Pentest+</strong><br>
-    <sub>Penetration Testing</sub><br>
+  <td align="center" width="160">
+    <img src="badges/pentest-plus.svg" alt="Pentest+" width="90" height="90"><br>
+    <strong>Pentest+<br>CompTIA</strong><br>
     <img src="https://geps.dev/progress/40" alt="40%">
   </td>
-  <td align="center" width="220">
-    <img src="https://img.shields.io/badge/Google%20Professional-Security%20Ops%20Engineer-4285F4?style=flat-square&logo=google&logoColor=white" width="200" alt="Google SecOps">
-    <br><br>
-    <strong>Google Professional<br>Security Operations<br>Engineer</strong><br>
+  <td align="center" width="160">
+    <img src="badges/google-secops.svg" alt="Google SecOps" width="90" height="90"><br>
+    <strong>Google Prof.<br>Security Ops<br>Engineer</strong><br>
     <img src="https://geps.dev/progress/25" alt="25%">
   </td>
 </tr>
