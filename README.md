@@ -75,6 +75,68 @@ Analyzing threats, hunting vulnerabilities, and building a safer digital world �
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
+## 🏆 Certifications & Badges
+
+<table align="center">
+<tr>
+  <td align="center" width="180">
+    <a href="https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/" target="_blank">
+      <img src="https://img.shields.io/badge/CSA-EC--Council-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==" height="60" alt="CSA">
+    </a>
+    <br><br>
+    <strong>Certified SOC Analyst</strong><br>
+    <sub>EC-Council</sub>
+  </td>
+  <td align="center" width="180">
+    <a href="https://www.eccouncil.org/train-certify/ec-council-certified-incident-handler-ecih/" target="_blank">
+      <img src="https://img.shields.io/badge/ECIH-EC--Council-red?style=for-the-badge" height="60" alt="ECIH">
+    </a>
+    <br><br>
+    <strong>EC-Council Certified<br>Incident Handler</strong><br>
+    <sub>EC-Council</sub>
+  </td>
+  <td align="center" width="180">
+    <a href="https://www.comptia.org/certifications/security" target="_blank">
+      <img src="https://img.shields.io/badge/Security%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white" height="60" alt="Security+">
+    </a>
+    <br><br>
+    <strong>CompTIA Security+</strong><br>
+    <sub>CompTIA</sub>
+  </td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 🔜 Upcoming Certifications
+
+<table align="center">
+<tr>
+  <td align="center" width="180">
+    <img src="https://img.shields.io/badge/CySA%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white" height="55" alt="CySA+">
+    <br><br>
+    <strong>CompTIA CySA+</strong><br>
+    <sub>Cybersecurity Analyst</sub><br>
+    <img src="https://geps.dev/progress/65" alt="65%">
+  </td>
+  <td align="center" width="180">
+    <img src="https://img.shields.io/badge/Pentest%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white" height="55" alt="Pentest+">
+    <br><br>
+    <strong>CompTIA Pentest+</strong><br>
+    <sub>Penetration Testing</sub><br>
+    <img src="https://geps.dev/progress/40" alt="40%">
+  </td>
+  <td align="center" width="220">
+    <img src="https://img.shields.io/badge/Prof.%20Security%20Ops-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="55" alt="Google SecOps">
+    <br><br>
+    <strong>Google Professional<br>Security Operations<br>Engineer</strong><br>
+    <img src="https://geps.dev/progress/25" alt="25%">
+  </td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
 ## 📈 GitHub Stats
 
 <div align="center">
