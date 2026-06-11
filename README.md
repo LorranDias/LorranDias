@@ -77,46 +77,17 @@ Analyzing threats, hunting vulnerabilities, and building a safer digital world �
 
 ## 🏆 Certifications & Badges
 
-<table align="center">
-<tr>
-  <td align="center" width="160">
-    <img src="badges/csa-eccouncil.svg" alt="CSA" width="90" height="90"><br>
-    <strong>CSA<br>EC-Council</strong>
-  </td>
-  <td align="center" width="160">
-    <img src="badges/ecih-eccouncil.svg" alt="ECIH" width="90" height="90"><br>
-    <strong>ECIH<br>EC-Council</strong>
-  </td>
-  <td align="center" width="160">
-    <img src="badges/security-plus.svg" alt="Security+" width="90" height="90"><br>
-    <strong>Security+<br>CompTIA</strong>
-  </td>
-</tr>
-</table>
+| | | |
+|:--:|:--:|:--:|
+| <p align="center"><img src="badges/csa.png" alt="CSA" width="90" height="90"><br><strong>CSA<br>EC-Council</strong></p> | <p align="center"><img src="badges/ecih.png" alt="ECIH" width="90" height="90"><br><strong>ECIH<br>EC-Council</strong></p> | <p align="center"><img src="badges/security-plus.png" alt="Security+" width="90" height="90"><br><strong>Security+<br>CompTIA</strong></p> |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 🔜 Upcoming Certifications
 
-<table align="center">
-<tr>
-  <td align="center" width="160">
-    <img src="badges/cysa-plus.svg" alt="CySA+" width="90" height="90"><br>
-    <strong>CySA+<br>CompTIA</strong><br>
-    <img src="https://geps.dev/progress/65" alt="65%">
-  </td>
-  <td align="center" width="160">
-    <img src="badges/pentest-plus.svg" alt="Pentest+" width="90" height="90"><br>
-    <strong>Pentest+<br>CompTIA</strong><br>
-    <img src="https://geps.dev/progress/40" alt="40%">
-  </td>
-  <td align="center" width="160">
-    <img src="badges/google-secops.svg" alt="Google SecOps" width="90" height="90"><br>
-    <strong>Google Prof.<br>Security Ops<br>Engineer</strong><br>
-    <img src="https://geps.dev/progress/25" alt="25%">
-  </td>
-</tr>
-</table>
+| | | |
+|:--:|:--:|:--:|
+| <p align="center"><img src="badges/cysa-plus.png" alt="CySA+" width="90" height="90"><br><strong>CySA+<br>CompTIA</strong><br><img src="https://geps.dev/progress/65" alt="65%"></p> | <p align="center"><img src="badges/pentest-plus.png" alt="Pentest+" width="90" height="90"><br><strong>Pentest+<br>CompTIA</strong><br><img src="https://geps.dev/progress/40" alt="40%"></p> | <p align="center"><img src="badges/google-secops.png" alt="Google SecOps" width="90" height="90"><br><strong>Google Prof.<br>Security Ops<br>Engineer</strong><br><img src="https://geps.dev/progress/25" alt="25%"></p> |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
