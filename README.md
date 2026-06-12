@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I%27m+Hypn0+%F0%9F%91%BE;Purple+Team+%7C+Red+%26+Blue+Operator;Phishing+minds.+Defending+systems.+Hunting+threats." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=60&lines=I%27m+Lorran+Dias%2C+also+known+as+Hypn0+%F0%9F%91%BE;Cybersecurity+Analyst;Acting+as+Purple+Team+Operator;Phishing+minds.+Defending+systems.+Hunting+threats." alt="Typing SVG" />
 </a>
 </div>
 
@@ -13,21 +13,19 @@
 <h1 align="center">🛡️ Welcome to my GitHub!</h1>
 
 <p align="center">
-I'm <strong>Lorran "Hypn0" Dias</strong> — Purple Team operator, CS graduate & Red Team postgrad.<br>
+I'm <strong>Lorran "Hypn0" Dias</strong> — Cybersecurity Analyst, operating as Purple Team.<br>
 Breaking in to understand how to defend. Defending to know where to attack.
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## 🟣 Purple Team Operator
+## 🔐 Cybersecurity Analyst
 
 🔴 **Red Team Operator** — phishing campaigns, vishing, internal & external pentests.
 
-🔵 **SOC Analyst (Blue Team)** — threat detection, log analysis, incident response with Google SecOps.
+🔵 **SOC Analyst (Blue Team)** — threat detection, log analysis, incident response and threat hunting.
 
 🟣 **Purple Team mindset** — bridging offense and defense to build stronger security postures.
-
-🎓 **B.Sc. Computer Science** | Postgraduate in Red Team Operations.
 
 🚩 **CTF Player** — sharpening offensive skills on the field.
 
@@ -37,12 +35,12 @@ Breaking in to understand how to defend. Defending to know where to attack.
 
 ```bash
 $ whoami
-  hypn0 — purple team operator
+  hypn0 — cybersecurity analyst | purple team operator
 
 $ cat current_ops.txt
-  🔴 Running : internal pentest & phishing campaigns
-  🔵 Monitoring : threat landscape via Google SecOps
-  🟣 Building : purple team playbooks & automation tools
+  🔴 Running  : internal pentest & phishing campaigns
+  🔵 Hunting  : threat actors via SIEM & EDR telemetry
+  🟣 Building : purple team playbooks & custom tooling
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
@@ -53,22 +51,22 @@ $ cat current_ops.txt
 <tr>
 <td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg"><br><sub>Kali Linux</sub></td>
 <td align="center" width="80"><img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Linux</sub></td>
-<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="https://www.vectorlogo.zone/logos/google/google-icon.svg"><br><sub>Google SecOps</sub></td>
+<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4"><br><sub>Google SecOps</sub></td>
 <td align="center" width="80"><img alt="Wireshark" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><br><sub>Wireshark</sub></td>
 <td align="center" width="80"><img alt="Burp Suite" height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"><br><sub>Burp Suite</sub></td>
-<td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="https://www.openvas.org/img/OpenVAS_logo_white.png"><br><sub>OpenVAS</sub></td>
+<td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="https://avatars.githubusercontent.com/u/16716620?s=200&v=4"><br><sub>OpenVAS</sub></td>
 <td align="center" width="80"><img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"><br><sub>Nmap</sub></td>
 <td align="center" width="80"><img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490"><br><sub>Metasploit</sub></td>
 </tr>
 <tr>
 <td align="center" width="80"><img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub>Python</sub></td>
-<td align="center" width="80"><img alt="C" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br><sub>C</sub></td>
 <td align="center" width="80"><img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br><sub>JavaScript</sub></td>
-<td align="center" width="80"><img alt="Bash" height="45" width="45" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><br><sub>Bash</sub></td>
-<td align="center" width="80"><img alt="Zabbix" height="45" width="45" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg"><br><sub>Zabbix</sub></td>
-<td align="center" width="80"><img alt="Grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"><br><sub>Grafana</sub></td>
-<td align="center" width="80"><img alt="YARA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>YARA</sub></td>
-<td align="center" width="80"><img alt="Volatility" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Volatility</sub></td>
+<td align="center" width="80"><img alt="Zabbix" height="45" width="45" src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png"><br><sub>Zabbix</sub></td>
+<td align="center" width="80"><img alt="Grafana" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"><br><sub>Grafana</sub></td>
+<td align="center" width="80"><img alt="YARA" height="45" width="45" src="https://raw.githubusercontent.com/VirusTotal/yara/main/docs/assets/img/yara.png"><br><sub>YARA</sub></td>
+<td align="center" width="80"><img alt="Volatility" height="45" width="45" src="https://avatars.githubusercontent.com/u/6001449?s=200&v=4"><br><sub>Volatility</sub></td>
+<td align="center" width="80"><img alt="Elastic" height="45" width="45" src="https://avatars.githubusercontent.com/u/6764390?s=200&v=4"><br><sub>Elastic</sub></td>
+<td align="center" width="80"><img alt="Velociraptor" height="45" width="45" src="https://avatars.githubusercontent.com/u/54917641?s=200&v=4"><br><sub>Velociraptor</sub></td>
 </tr>
 </table>
 
@@ -78,11 +76,11 @@ $ cat current_ops.txt
 
 | 🔴 Red Team Ops | Phishing, vishing, internal pentests, social engineering |
 |---|---|
-| 🔵 SOC / Blue Team | Threat detection, log analysis, Google SecOps |
+| 🔵 SOC / Blue Team | Threat detection, incident response, threat hunting |
 | 🟣 Vulnerability Management | OpenVAS, Vulnerability Manager Plus, risk prioritization |
 | 🌐 Network Security | Wireshark, Nmap, packet analysis, IDS/IPS |
-| 💻 Scripting & Dev | Python, C, JavaScript for tooling and automation |
-| 📊 Monitoring | Zabbix, Grafana, SIEM alerting |
+| 💻 Scripting & Dev | Python, C++, Assembly, JavaScript for tooling and automation |
+| 📊 Monitoring | SIEM, EDR, XDR |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
