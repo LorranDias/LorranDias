@@ -1,21 +1,21 @@
 <a href="https://github.com/LorranDias" target="_blank">
 <img align="right" src="https://komarev.com/ghpvc/?username=LorranDias&color=00FF41&style=flat-square&label=visitors" alt="visitor badge" />
-</a>a>
+</a>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I%27m+Hypn0+%F0%9F%91%BE;Purple+Team+%7C+Red+%26+Blue+Operator;Phishing+minds.+Defending+systems.+Hunting+threats." alt="Typing SVG" />
-</a>a>
-</div>div>
+</a>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-<h1 align="center">🛡️ Welcome to my GitHub!</h1>h1>
+<h1 align="center">🛡️ Welcome to my GitHub!</h1>
 
 <p align="center">
-I'm <strong>Lorran "Hypn0" Dias</strong>strong> — Purple Team operator, CS graduate & Red Team postgrad.<br>
+I'm <strong>Lorran "Hypn0" Dias</strong> — Purple Team operator, CS graduate & Red Team postgrad.<br>
 Breaking in to understand how to defend. Defending to know where to attack.
-</p>p>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
@@ -50,27 +50,27 @@ $ cat current_ops.txt
 ## 🛠️ Tech Stack & Tools
 
 <table align="center">
-  <tr>
-    <td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg"><br><sub>Kali Linux</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Linux</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="https://www.vectorlogo.zone/logos/google/google-icon.svg"><br><sub>Google SecOps</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Wireshark" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><br><sub>Wireshark</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Burp Suite" height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"><br><sub>Burp Suite</sub>sub></td>td>
-    <td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="https://www.openvas.org/img/OpenVAS_logo_white.png"><br><sub>OpenVAS</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"><br><sub>Nmap</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490"><br><sub>Metasploit</sub>sub></td>td>
-  </tr>tr>
-  <tr>
-    <td align="center" width="80"><img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub>Python</sub>sub></td>td>
-    <td align="center" width="80"><img alt="C" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br><sub>C</sub>sub></td>td>
-    <td align="center" width="80"><img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br><sub>JavaScript</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Bash" height="45" width="45" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><br><sub>Bash</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Zabbix" height="45" width="45" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg"><br><sub>Zabbix</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"><br><sub>Grafana</sub>sub></td>td>
-    <td align="center" width="80"><img alt="YARA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>YARA</sub>sub></td>td>
-    <td align="center" width="80"><img alt="Volatility" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Volatility</sub>sub></td>td>
-  </tr>tr>
-</table>table>
+<tr>
+<td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg"><br><sub>Kali Linux</sub></td>
+<td align="center" width="80"><img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Linux</sub></td>
+<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="https://www.vectorlogo.zone/logos/google/google-icon.svg"><br><sub>Google SecOps</sub></td>
+<td align="center" width="80"><img alt="Wireshark" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><br><sub>Wireshark</sub></td>
+<td align="center" width="80"><img alt="Burp Suite" height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"><br><sub>Burp Suite</sub></td>
+<td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="https://www.openvas.org/img/OpenVAS_logo_white.png"><br><sub>OpenVAS</sub></td>
+<td align="center" width="80"><img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"><br><sub>Nmap</sub></td>
+<td align="center" width="80"><img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490"><br><sub>Metasploit</sub></td>
+</tr>
+<tr>
+<td align="center" width="80"><img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub>Python</sub></td>
+<td align="center" width="80"><img alt="C" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br><sub>C</sub></td>
+<td align="center" width="80"><img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br><sub>JavaScript</sub></td>
+<td align="center" width="80"><img alt="Bash" height="45" width="45" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"><br><sub>Bash</sub></td>
+<td align="center" width="80"><img alt="Zabbix" height="45" width="45" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg"><br><sub>Zabbix</sub></td>
+<td align="center" width="80"><img alt="Grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"><br><sub>Grafana</sub></td>
+<td align="center" width="80"><img alt="YARA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>YARA</sub></td>
+<td align="center" width="80"><img alt="Volatility" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Volatility</sub></td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
@@ -105,16 +105,13 @@ $ cat current_ops.txt
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LorranDias/LorranDias/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>div>
+<img src="https://raw.githubusercontent.com/LorranDias/LorranDias/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 <div align="center">
 
-  > *"The quieter you become, the more you are able to hear."* — Kali Linux motto
-> 
+> *"The quieter you become, the more you are able to hear."* — Kali Linux motto
+
 </div>
-  </tr>
-  </tr>
-</strong>
