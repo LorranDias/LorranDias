@@ -34,10 +34,10 @@ Breaking in to understand how to defend. Defending to know where to attack.
 <tr>
 <td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://cdn.simpleicons.org/kalilinux"><br><sub>Kali Linux</sub></td>
 <td align="center" width="80"><img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Linux</sub></td>
-<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4"><br><sub>Google SecOps</sub></td>
+<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="badges/logo%20Google%20SecOps.png"><br><sub>Google SecOps</sub></td>
 <td align="center" width="80"><img alt="Wireshark" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><br><sub>Wireshark</sub></td>
 <td align="center" width="80"><img alt="Burp Suite" height="45" width="45" src="https://cdn.simpleicons.org/burpsuite"><br><sub>Burp Suite</sub></td>
-<td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="https://avatars.githubusercontent.com/u/16716620?s=200&v=4"><br><sub>OpenVAS</sub></td>
+<td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="badges/logo%20openvas.png"><br><sub>OpenVAS</sub></td>
 <td align="center" width="80"><img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"><br><sub>Nmap</sub></td>
 <td align="center" width="80"><img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490"><br><sub>Metasploit</sub></td>
 </tr>
@@ -48,7 +48,7 @@ Breaking in to understand how to defend. Defending to know where to attack.
 <td align="center" width="80"><img alt="Grafana" height="45" width="45" src="https://cdn.simpleicons.org/grafana"><br><sub>Grafana</sub></td>
 <td align="center" width="80"><img alt="Bitdefender" height="45" width="45" src="https://cdn.simpleicons.org/bitdefender"><br><sub>Bitdefender</sub></td>
 <td align="center" width="80"><img alt="Fortinet" height="45" width="45" src="https://cdn.simpleicons.org/fortinet"><br><sub>Fortinet</sub></td>
-<td align="center" width="80"><img alt="Elastic" height="45" width="45" src="https://cdn.simpleicons.org/elastic"><br><sub>Elastic</sub></td>
+<td align="center" width="80"><img alt="Elastic" height="45" width="45" src="badges/logo%20elastic.png"><br><sub>Elastic</sub></td>
 <td align="center" width="80"><img alt="Trend Micro" height="45" width="45" src="https://cdn.simpleicons.org/trendmicro"><br><sub>Trend Micro</sub></td>
 </tr>
 </table>
