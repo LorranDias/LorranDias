@@ -44,7 +44,7 @@ Breaking in to understand how to defend. Defending to know where to attack.
 <tr>
 <td align="center" width="80"><img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub>Python</sub></td>
 <td align="center" width="80"><img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br><sub>JavaScript</sub></td>
-<td align="center" width="80"><img alt="Zabbix" height="45" width="45" src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png"><br><sub>Zabbix</sub></td>
+<td align="center" width="80"><img alt="Zabbix" height="45" width="45" src="badges/zabbix-removebg-preview.png"><br><sub>Zabbix</sub></td>
 <td align="center" width="80"><img alt="Grafana" height="45" width="45" src="https://cdn.simpleicons.org/grafana"><br><sub>Grafana</sub></td>
 <td align="center" width="80"><img alt="Bitdefender" height="45" width="45" src="https://cdn.simpleicons.org/bitdefender"><br><sub>Bitdefender</sub></td>
 <td align="center" width="80"><img alt="Fortinet" height="45" width="45" src="https://cdn.simpleicons.org/fortinet"><br><sub>Fortinet</sub></td>
