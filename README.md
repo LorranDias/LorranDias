@@ -17,7 +17,6 @@ I'm Lorran, also known as <strong>Hypno0</strong> — Cybersecurity Analyst, ope
 Breaking in to understand how to defend. Defending to know where to attack.
 </p>
 
-<img src="https://cdn.simpleicons.org/kalilinux" alt="divider" width="100%">
 
 ## 🔐 Cybersecurity Analyst
 
