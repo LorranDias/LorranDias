@@ -34,7 +34,7 @@ Breaking in to understand how to defend. Defending to know where to attack.
 <tr>
 <td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://cdn.simpleicons.org/kalilinux"><br><sub>Kali Linux</sub></td>
 <td align="center" width="80"><img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Linux</sub></td>
-<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="badges/logo%20Google%20SecOps.png"><br><sub>Google SecOps</sub></td>
+<td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="badges/logo_secops-removebg-preview.png"><br><sub>Google SecOps</sub></td>
 <td align="center" width="80"><img alt="Wireshark" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><br><sub>Wireshark</sub></td>
 <td align="center" width="80"><img alt="Burp Suite" height="45" width="45" src="https://cdn.simpleicons.org/burpsuite"><br><sub>Burp Suite</sub></td>
 <td align="center" width="80"><img alt="OpenVAS" height="45" width="45" src="badges/logo%20openvas.png"><br><sub>OpenVAS</sub></td>
