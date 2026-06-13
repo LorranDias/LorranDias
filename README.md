@@ -57,8 +57,9 @@ Breaking in to understand how to defend. Defending to know where to attack.
 
 ## ⚡ Key Skills
 
-| 🔴 Red Team Ops | Phishing, vishing, internal pentests, social engineering |
+|  |  |
 |---|---|
+| 🔴 Red Team Ops | Phishing, vishing, internal pentests, social engineering |
 | 🔵 SOC / Blue Team | Threat detection, incident response, threat hunting |
 | 🟣 Vulnerability Management | OpenVAS, Vulnerability Manager Plus, risk prioritization |
 | 🌐 Network Security | Wireshark, Nmap, packet analysis, IDS/IPS |
