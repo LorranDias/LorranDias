@@ -29,22 +29,6 @@ Breaking in to understand how to defend. Defending to know where to attack.
 
 🚩 **CTF Player** — sharpening offensive skills on the field.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
-## 🖥️ Current Focus
-
-```bash
-$ whoami
-hypn0 — cybersecurity analyst | purple team operator
-
-$ cat current_ops.txt
-🔴 Running : internal pentest & phishing campaigns
-🔵 Hunting : threat actors via SIEM & EDR telemetry
-🟣 Building : purple team playbooks & custom tooling
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-
 ## 🛠️ Tech Stack & Tools
 
 <table align="center">
