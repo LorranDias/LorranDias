@@ -17,7 +17,7 @@ I'm Lorran, also known as <strong>Hypno0</strong> — Cybersecurity Analyst, ope
 Breaking in to understand how to defend. Defending to know where to attack.
 </p>
 
-<img src="https://cdn.simpleicons.org/kalilinux/1793D1" alt="divider" width="100%">
+<img src="https://cdn.simpleicons.org/kalilinux" alt="divider" width="100%">
 
 ## 🔐 Cybersecurity Analyst
 
@@ -33,7 +33,7 @@ Breaking in to understand how to defend. Defending to know where to attack.
 
 <table align="center">
   <tr>
-    <td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://cdn.simpleicons.org/linux/FCC624"><br><sub>Kali Linux</sub></td>
+    <td align="center" width="80"><img alt="Kali Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><sub>Kali Linux</sub></td>
     <td align="center" width="80"><img alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlesecurity.svg"><br><sub>Linux</sub></td>
     <td align="center" width="80"><img alt="Google SecOps" height="45" width="45" src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4"><br><sub>Google SecOps</sub></td>
     <td align="center" width="80"><img alt="Wireshark" height="45" width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633"><br><sub>Wireshark</sub></td>
